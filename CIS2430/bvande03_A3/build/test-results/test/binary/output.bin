@@ -1,0 +1,35 @@
+Id = 0
+Description = ASUS Laptop
+Price = 799.99
+Year = 2020
+Maker = ASUS
+Id = 5
+Description = TV
+Price = 50.56
+Year = 2000
+Maker = Sony
+Id = 1
+4Description = Percy Jackson And The Lightning Theif
+Price = 59.99
+Year = 2010
+Author = Rick Riordan
+Publisher = Puffin Books
+Id = 5
+ Description = Lord Of The Rings
+Price = 55.56
+Year = 2000
+Author = J.R.R. Tolkien
+Publisher = Allen & Unwin
+Adding Done
+epic testing, Linear Search: 
+epic testing, Hash Search: 
+200101, Linear Search: 
+200101, Hash Search: 
+epic, Linear Search:
+epic, Hash Search:
+2020, Linear Search:
+2020, Hash Search:
+-2005, Linear Search:
+-2005, Hash Search:
+2005-, Linear Search:
+2005-, Hash Search:

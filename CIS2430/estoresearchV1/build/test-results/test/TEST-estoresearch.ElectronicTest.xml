@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="estoresearch.ElectronicTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-09T19:02:07" hostname="socsvm" time="0.046">
+  <properties/>
+  <testcase name="testElectronic" classname="estoresearch.ElectronicTest" time="0.046"/>
+  <system-out><![CDATA[Id = 0
+Description = ASUS Laptop
+Price = 799.99
+Year = 2020
+Maker = ASUS
+
+Id: 000000
+Description: ASUS Laptop
+Price: 799.99
+Year: 2020
+Maker: ASUS
+Id = 5
+Description = TV
+Price = 50.56
+Year = 2000
+Maker = Sony
+
+Id: 000005
+Description: TV
+Price: 50.56
+Year: 2000
+Maker: Sony
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

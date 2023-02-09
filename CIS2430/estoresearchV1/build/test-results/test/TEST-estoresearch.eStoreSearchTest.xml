@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="estoresearch.eStoreSearchTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-09T19:02:07" hostname="socsvm" time="0.09">
+  <properties/>
+  <testcase name="testEStoreSearch" classname="estoresearch.eStoreSearchTest" time="0.09"/>
+  <system-out><![CDATA[
+Id: 100101
+Description: Testing
+Price: 0.00
+Year: 2020
+Maker: testEStoreSearch
+
+Id: 200101
+Description: Epic
+Price: 26.90
+Year: 1000
+Maker: testEStoreSearch
+Error: productID already exists.
+
+Id: 000002
+Description: EPIC TesTIng
+Price: 26.90
+Year: 2001
+Adding Done
+epic testing, Linear Search: 
+
+Id: 000002
+Description: EPIC TesTIng
+Price: 26.90
+Year: 2001
+epic testing, Hash Search: 
+
+Id: 000002
+Description: EPIC TesTIng
+Price: 26.90
+Year: 2001
+200101, Linear Search: 
+
+Id: 200101
+Description: Epic
+Price: 26.90
+Year: 1000
+Maker: testEStoreSearch
+200101, Hash Search: 
+
+Id: 200101
+Description: Epic
+Price: 26.90
+Year: 1000
+Maker: testEStoreSearch
+epic, Linear Search:
+
+Id: 200101
+Description: Epic
+Price: 26.90
+Year: 1000
+Maker: testEStoreSearch
+
+Id: 000002
+Description: EPIC TesTIng
+Price: 26.90
+Year: 2001
+epic, Hash Search:
+
+Id: 200101
+Description: Epic
+Price: 26.90
+Year: 1000
+Maker: testEStoreSearch
+
+Id: 000002
+Description: EPIC TesTIng
+Price: 26.90
+Year: 2001
+2020, Linear Search:
+2020, Hash Search:
+-2005, Linear Search:
+
+Id: 200101
+Description: Epic
+Price: 26.90
+Year: 1000
+Maker: testEStoreSearch
+
+Id: 000002
+Description: EPIC TesTIng
+Price: 26.90
+Year: 2001
+-2005, Hash Search:
+
+Id: 200101
+Description: Epic
+Price: 26.90
+Year: 1000
+Maker: testEStoreSearch
+
+Id: 000002
+Description: EPIC TesTIng
+Price: 26.90
+Year: 2001
+2005-, Linear Search:
+2005-, Hash Search:
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

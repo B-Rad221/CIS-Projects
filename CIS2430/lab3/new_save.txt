@@ -1,0 +1,20 @@
+
+Program: ENGG
+Year: 2
+Average Grade: 90.56
+
+Program: BRO
+Year: 2
+Average Grade: 89.98
+
+Program: DUDE
+Year: 3
+Average Grade: 95.46
+
+Program: BRO
+Year: 4
+Average Grade: 89.79
+Supervisor: BRUH
+PHD: YES
+Undergraduate School: 
+

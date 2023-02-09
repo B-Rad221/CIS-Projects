@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="estoresearch.ProductTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-09T19:02:07" hostname="socsvm" time="0.117">
+  <properties/>
+  <testcase name="testProduct" classname="estoresearch.ProductTest" time="0.117"/>
+  <system-out><![CDATA[Id = 0
+Description = ASUS Laptop
+Price = 799.99
+Year = 2020
+
+Id: 000000
+Description: ASUS Laptop
+Price: 799.99
+Year: 2020
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

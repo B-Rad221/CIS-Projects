@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="estoresearch.BookTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-09T19:02:07" hostname="socsvm" time="0.099">
+  <properties/>
+  <testcase name="testBook" classname="estoresearch.BookTest" time="0.099"/>
+  <system-out><![CDATA[Id = 1
+Description = Percy Jackson And The Lightning Theif
+Price = 59.99
+Year = 2010
+Author = Rick Riordan
+Publisher = Puffin Books
+
+Id: 000001
+Description: Percy Jackson And The Lightning Theif
+Price: 59.99
+Year: 2010
+Author: Rick Riordan
+Publisher: Puffin Books
+Id = 5
+Description = Lord Of The Rings
+Price = 55.56
+Year = 2000
+Author = J.R.R. Tolkien
+Publisher = Allen & Unwin
+
+Id: 000005
+Description: Lord Of The Rings
+Price: 55.56
+Year: 2000
+Author: J.R.R. Tolkien
+Publisher: Allen & Unwin
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="estoresearch.eStoreSearchTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-30T13:50:20" hostname="socsvm" time="4.486">
+  <properties/>
+  <testcase name="testEStoreSearch" classname="estoresearch.eStoreSearchTest" time="4.486"/>
+  <system-out><![CDATA[Adding Done
+epic testing, Linear Search: 
+epic testing, Hash Search: 
+200101, Linear Search: 
+200101, Hash Search: 
+epic, Linear Search:
+epic, Hash Search:
+2020, Linear Search:
+2020, Hash Search:
+-2005, Linear Search:
+-2005, Hash Search:
+2005-, Linear Search:
+2005-, Hash Search:
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

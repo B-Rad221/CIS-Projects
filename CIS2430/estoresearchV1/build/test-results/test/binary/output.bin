@@ -1,0 +1,154 @@
+Id = 0
+Description = ASUS Laptop
+Price = 799.99
+Year = 2020
+
+Id: 000000
+Description: ASUS Laptop
+Price: 799.99
+Year: 2020
+Id = 0
+Description = ASUS Laptop
+Price = 799.99
+Year = 2020
+Maker = ASUS
+
+Id: 000000
+Description: ASUS Laptop
+Price: 799.99
+Year: 2020
+Maker: ASUS
+Id = 5
+Description = TV
+Price = 50.56
+Year = 2000
+Maker = Sony
+
+Id: 000005
+Description: TV
+Price: 50.56
+Year: 2000
+Maker: Sony
+Id = 1
+4Description = Percy Jackson And The Lightning Theif
+Price = 59.99
+Year = 2010
+Author = Rick Riordan
+Publisher = Puffin Books
+
+Id: 000001
+3Description: Percy Jackson And The Lightning Theif
+Price: 59.99
+Year: 2010
+Author: Rick Riordan
+Publisher: Puffin Books
+Id = 5
+ Description = Lord Of The Rings
+Price = 55.56
+Year = 2000
+Author = J.R.R. Tolkien
+Publisher = Allen & Unwin
+
+Id: 000005
+Description: Lord Of The Rings
+Price: 55.56
+Year: 2000
+Author: J.R.R. Tolkien
+Publisher: Allen & Unwin
+
+Id: 100101
+Description: Testing
+Price: 0.00
+Year: 2020
+Maker: testEStoreSearch
+
+Id: 200101
+Description: Epic
+Price: 26.90
+Year: 1000
+Maker: testEStoreSearch
+!Error: productID already exists.
+
+Id: 000002
+Description: EPIC TesTIng
+Price: 26.90
+Year: 2001
+Adding Done
+epic testing, Linear Search: 
+
+Id: 000002
+Description: EPIC TesTIng
+Price: 26.90
+Year: 2001
+epic testing, Hash Search: 
+
+Id: 000002
+Description: EPIC TesTIng
+Price: 26.90
+Year: 2001
+200101, Linear Search: 
+
+Id: 200101
+Description: Epic
+Price: 26.90
+Year: 1000
+Maker: testEStoreSearch
+200101, Hash Search: 
+
+Id: 200101
+Description: Epic
+Price: 26.90
+Year: 1000
+Maker: testEStoreSearch
+epic, Linear Search:
+
+Id: 200101
+Description: Epic
+Price: 26.90
+Year: 1000
+Maker: testEStoreSearch
+
+Id: 000002
+Description: EPIC TesTIng
+Price: 26.90
+Year: 2001
+epic, Hash Search:
+
+Id: 200101
+Description: Epic
+Price: 26.90
+Year: 1000
+Maker: testEStoreSearch
+
+Id: 000002
+Description: EPIC TesTIng
+Price: 26.90
+Year: 2001
+2020, Linear Search:
+2020, Hash Search:
+-2005, Linear Search:
+
+Id: 200101
+Description: Epic
+Price: 26.90
+Year: 1000
+Maker: testEStoreSearch
+
+Id: 000002
+Description: EPIC TesTIng
+Price: 26.90
+Year: 2001
+-2005, Hash Search:
+
+Id: 200101
+Description: Epic
+Price: 26.90
+Year: 1000
+Maker: testEStoreSearch
+
+Id: 000002
+Description: EPIC TesTIng
+Price: 26.90
+Year: 2001
+2005-, Linear Search:
+2005-, Hash Search:
