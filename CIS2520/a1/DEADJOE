@@ -1,0 +1,15 @@
+
+*** These modified files were found in JOE when it aborted on Tue Sep 22 11:14:26 2020
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/home/socs/CIS2520/a8/.git/COMMIT_EDITMSG
+/home/socs/CIS2520/a8/.git/COMMIT_EDITMSG
+
+/home/socs/CIS2520/a1/test_dpff.c
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
